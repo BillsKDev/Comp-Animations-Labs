@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ed5c397-a695-4ac9-b5d1-229f41116840" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CALabs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CALabs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Packs/RPGHero/Materials/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Packs/RPGHero/Materials/Ground.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Packs/RPGHero/Materials/HandPainted.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Packs/RPGHero/Materials/HandPainted.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Packs/RPGHero/Materials/PBR.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Packs/RPGHero/Materials/PBR.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Packs/RPGHero/Materials/PolyArt.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Packs/RPGHero/Materials/PolyArt.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="3ed5c397-a695-4ac9-b5d1-229f41116840" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760919572426</updated>
       <workItem from="1760919574611" duration="2330000" />
-      <workItem from="1762737733309" duration="1323000" />
+      <workItem from="1762737733309" duration="1355000" />
     </task>
     <servers />
   </component>
